@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Bar Hatuka
 
-<!--
-**BarHatuka/Barhatuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computer Science Student @ Ono Academic College  
+💻 Passionate about **Java, OOP, Data Structures, and Cybersecurity**  
+🚀 Exploring backend development, QA automation, and algorithms  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/baru-hatuka-b49315339/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Skills
+- **Languages:** Java, Python, C (basics)  
+- **Tools:** Git, GitHub, IntelliJ, VS Code, Linux basics  
+- **Concepts:** OOP, Data Structures, Algorithms, Problem Solving  
+
+---
+
+## 📂 Featured Projects
+- 🔹 **Java Iterators Demo** – custom iterator implementations  
+- 🔹 **Data Structures** – stacks, queues, linked lists in Java  
+- 🔹 **Personal Startup Tools** – scripts and automation from my business project  
+
+---
+
+## 📊 GitHub Stats
+![Bar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarHatuka&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ *Always open to collaboration and eager to learn more!*
